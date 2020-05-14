@@ -8,7 +8,7 @@
       "availableSizes": ["500ml", "1L", "5L"],
       "style": "Fresh creamy milk from the Southern Farm Cows",
       "price":20.00,
-      "installments": 9,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -22,7 +22,7 @@
       "availableSizes": ["500ml" , "1L" , "5L"],
       "style": "Fresh Creamy milk from the Southern Farm Buffalos",
       "price": 24.00,
-      "installments": 5,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -36,7 +36,7 @@
       "availableSizes": ["500ml", "1L", "5L"],
       "style": "Thick Zero Fat Curd",
       "price": 35.00,
-      "installments": 3,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -50,7 +50,7 @@
       "availableSizes": ["200g", "500g", "1Kg", "5Kg"],
       "style": "Soft White Creamy Fresh Paneer",
       "price": 95.99,
-      "installments": 5,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -64,7 +64,7 @@
       "availableSizes": ["500g", "1Kg"],
       "style": "Fresh Butter Churned in the Southern Farms",
       "price": 130.00,
-      "installments": 3,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -78,7 +78,7 @@
       "availableSizes": ["500g", "1Kg"],
       "style": "Fresh Butter Churned in the Southern Farms",
       "price": 135.00,
-      "installments": 5,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -92,7 +92,7 @@
       "availableSizes": ["500g", "1Kg"],
       "style": "Mouth watering Cheese used in Pizzas",
       "price": 230.00,
-      "installments": 9,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -106,7 +106,7 @@
       "availableSizes": ["500g", "1Kg"],
       "style": "Mouth watering Cheese used in Sandwiches",
       "price": 230.00,
-      "installments": 9,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -120,7 +120,7 @@
       "availableSizes": ["200g", "500g"],
       "style": "Sweet Mouth-watering Yummy Yougurt",
       "price": 140.00,
-      "installments": 7,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -134,7 +134,7 @@
       "availableSizes": ["200g", "500g"],
       "style": "Sweet Mouth-watering Yummy Yougurt",
       "price": 140.00,
-      "installments": 7,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -148,7 +148,7 @@
       "availableSizes": ["500g"],
       "style": "Dips for Garlic bread and Nachos",
       "price": 25.00,
-      "installments": 4,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": false
@@ -162,7 +162,7 @@
       "availableSizes": ["500ml", "1L"],
       "style": "Sweet Mouth-watering Yummy Cream",
       "price": 134.00,
-      "installments": 5,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -176,7 +176,7 @@
       "availableSizes": ["500ml", "1L"],
       "style": "Sweet Mouth-watering Yummy Buttermilk",
       "price": 49.0,
-      "installments": 9,
+      "installments": ,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
