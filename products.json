@@ -8,7 +8,7 @@
       "availableSizes": ["500ml", "1L", "5L", "10L" , "25L"]
       "style": "Fresh creamy milk from the Southern Farm Cows",
       "price":20.00,
-      "installments":0 ,
+      "installments": 1,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
