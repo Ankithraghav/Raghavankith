@@ -139,19 +139,7 @@
       "currencyFormat": "",
       "isFreeShipping": true
     },
-     {
-      "id": 4,
-      "sku": 9197907543445677,
-      "title": "Strawberry Flavoured",
-      "description": "Fat free yogurt",
-      "availableSizes": ["200mL"],
-      "style": "Sweet Mouth-watering Yummy Yougurt",
-      "price": 140.00,
-      "installments": 12,
-      "currencyId": "INR",
-      "currencyFormat": "",
-      "isFreeShipping": false
-    },
+     
 
     {
       "id": 5,
