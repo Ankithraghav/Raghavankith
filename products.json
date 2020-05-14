@@ -141,62 +141,6 @@
     },
 
     {
-      "id": 4,
-      "sku": 9197907543445677,
-      "title": "Strawberry Flavoured",
-      "description": "Fat free yogurt",
-      "availableSizes": ["200mL"],
-      "style": "Sweet Mouth-watering Yummy Yougurt",
-      "price": 140.00,
-      "installments": 12,
-      "currencyId": "INR",
-      "currencyFormat": "",
-      "isFreeShipping": false
-    },
-
-    {
-      "id": 5,
-      "sku": 10547961582846888,
-      "title": "Parmesan Cheese",
-      "description": "Thick Block of Cheese",
-      "availableSizes": ["500g", "1Kg", "5Kg"],
-      "style": "Mouth watering Cheese used in Sandwiches",
-      "price": 250.00,
-      "installments": 9,
-      "currencyId": "INR",
-      "currencyFormat": "",
-      "isFreeShipping": false
-    },
-
-    {
-      "id": 6,
-      "sku": 6090484789343891,
-      "title": "Plain Yogurt",
-      "description": "Fat Free Yogurt",
-      "availableSizes": ["XL", "XXL"],
-      "style": "Sweet Mouth-watering Yummy Yougurt",
-      "price": 49.00,
-      "installments": 0,
-      "currencyId": "INR",
-      "currencyFormat": "",
-      "isFreeShipping": true
-    },
-
-    {
-      "id": 7,
-      "sku": 18532669286405342,
-      "title": "Goat Milk Cheese",
-      "description": "Fresh cheese made of Farm Goats",
-      "availableSizes": ["500g"],
-      "style": "Fat free Cheese from Goats",
-      "price": 350.00,
-      "installments": 4,
-      "currencyId": "INR",
-      "currencyFormat": "",
-      "isFreeShipping": true
-    },
-
-    {
       "id": 8,
       "sku": 5619496040738316,
       "title": "Cheesy Dip",
