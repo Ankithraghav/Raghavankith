@@ -8,7 +8,7 @@
       "availableSizes": ["S", "XS"],
       "style": "Black with custom print",
       "price":20.00,
-      "installments": 9,
+      "installments": 1,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -22,7 +22,7 @@
       "availableSizes": ["M"],
       "style": "Front print and paisley print",
       "price": 29.45,
-      "installments": 5,
+      "installments": 1,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -36,7 +36,7 @@
       "availableSizes": ["X", "L", "XL"],
       "style": "Front tie dye print",
       "price": 9.0,
-      "installments": 3,
+      "installments": 1,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -50,7 +50,7 @@
       "availableSizes": ["X", "L", "XL", "XXL"],
       "style": "Black T-Shirt with front print",
       "price": 14.0,
-      "installments": 5,
+      "installments": 1,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
@@ -78,7 +78,7 @@
       "availableSizes": ["XS", "X", "L", "ML", "XL"],
       "style": "Grey",
       "price": 75.0,
-      "installments": 5,
+      "installments": 1,
       "currencyId": "INR",
       "currencyFormat": "",
       "isFreeShipping": true
